@@ -1,2 +1,1 @@
-# SK-HW
-Проекты в SkillFactory ✔️
+Project for  SkillFactory ✔️
