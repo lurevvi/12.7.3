@@ -1,1 +1,1 @@
-Project for  SkillFactory ✔️
+Projects for  SkillFactory ✔️
